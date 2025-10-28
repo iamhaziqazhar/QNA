@@ -25,6 +25,8 @@
 // else { 
 //     answer.style.display="none";
 //     answer.style.display="none";
+//     answer.style.display="none";
+
 
 // }
 // });
